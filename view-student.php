@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
     include "dbconfig.php";
 
     if (isset($_GET['id'])) {
@@ -30,4 +30,4 @@
         <br>
         <a href="view-student-list.php">Back to Student List</a>
     </body>
-</html>
+</html> -->
