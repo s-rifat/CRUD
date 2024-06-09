@@ -13,7 +13,7 @@
             $email = $row['email'];
         } 
         else {
-            header('Location: view-student-list.php');
+            //header('Location: view-student-list.php');
         }
     }
 ?>
